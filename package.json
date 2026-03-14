@@ -16,7 +16,8 @@
     "test:only": "jest",
     "add-contract": "node scripts/add-contract.js",
     "clean": "rimraf dist",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "transfer": "parcel exercises/simple-transfer/index.html"
   },
   "dependencies": {
     "@ckb-js-std/bindings": "~1.0.0",
