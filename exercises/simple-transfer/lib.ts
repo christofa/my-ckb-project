@@ -8,7 +8,7 @@ type Account = {
 };
 
 export const generateAccountFromPrivateKey = async (
-  privKey: string
+  privKey: string,
 ): Promise<Account> => {
   const signer = new ccc.SignerCkbPrivateKey(cccClient, privKey);
   const lock = await signer.getAddressObjSecp256k1();
@@ -28,7 +28,7 @@ export async function capacityOf(address: string): Promise<bigint> {
 export async function transfer(
   toAddress: string,
   amountInCKB: string,
-  signerPrivateKey: string
+  signerPrivateKey: string,
 ): Promise<string> {
   const signer = new ccc.SignerCkbPrivateKey(cccClient, signerPrivateKey);
   const { script: toLock } = await ccc.Address.fromString(toAddress, cccClient);
@@ -53,7 +53,7 @@ export async function transfer(
   await tx.completeFeeBy(signer, 1000);
   const txHash = await signer.sendTransaction(tx);
   console.log(
-    `Go to explorer to check the sent transaction https://pudge.explorer.nervos.org/transaction/${txHash}`
+    `Go to explorer to check the sent transaction https://pudge.explorer.nervos.org/transaction/${txHash}`,
   );
 
   return txHash;
@@ -63,6 +63,6 @@ export async function wait(seconds: number) {
   return new Promise((resolve) => setTimeout(resolve, seconds * 1000));
 }
 
-export function shannonToCKB(amount: bigint){
+export function shannonToCKB(amount: bigint) {
   return amount / 100000000n;
 }
