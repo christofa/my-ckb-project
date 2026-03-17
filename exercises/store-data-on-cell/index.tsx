@@ -9,7 +9,7 @@ import {
 } from "./lib";
 import { Script } from "@ckb-ccc/core";
 
-const container = document.getElementById("root");
+const container = document.getElementById("root")!;
 const root = createRoot(container)
 root.render(<App />);
 
@@ -100,7 +100,7 @@ export function App() {
       <button
         disabled={!enabledRead}
         onClick={() => {
-          readOnChainMessage(txHash);
+          readOnChainMessage(txHash!);
         }}
       >
         Read
