@@ -22,7 +22,7 @@ export function App() {
   const [fromLock, setFromLock] = useState<Script>();
   const [balance, setBalance] = useState("0");
 
-  const [message, setMessage] = useState("hello common knowledge base!");
+  const [message, setMessage] = useState("Learning CKB is awesome");
   const [txHash, setTxHash] = useState<string>();
 
   useEffect(() => {
