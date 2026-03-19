@@ -4,7 +4,7 @@ import { capacityOf, generateAccountFromPrivateKey, issueToken, queryIssuedToken
 import { ccc, CellOutput, Script } from '@ckb-ccc/core';
 
 const container = document.getElementById("root");
-const root = createRoot(container)
+const root = createRoot(container!)
 root.render(<App />);
 
 function IssuedToken() {
@@ -133,7 +133,7 @@ function ViewIssuedToken() {
         <div key={index}>
           <p>Cell #{index}</p>
           <li>Token amount: {ccc.numLeFromBytes(cell.outputData).toString()}</li>
-          <li>Token xUDT args: {cell.cellOutput.type.args}</li>
+          <li>Token xUDT args: {cell.cellOutput.type!.args}</li>
           <li>Token holder's lock script args: {cell.cellOutput.lock.args}</li>
           <hr />
         </div>
