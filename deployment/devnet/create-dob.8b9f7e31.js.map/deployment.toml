@@ -1,0 +1,11 @@
+[[cells]]
+name = "create-dob.8b9f7e31.js.map"
+enable_type_id = false
+
+  [cells.location]
+  file = "C:\\Users\\user\\Documents\\Projects\\my-ckb-project\\dist\\create-dob.8b9f7e31.js.map"
+
+[lock]
+code_hash = "0x9bd7e06f3ecf4be0f2fcd2188b23f1b9fcc88e5d4b65a8637b17723bbda3cce8"
+args = "0x4118c8c16749bf126b22468d030bf9de7da3717b"
+hash_type = "type"

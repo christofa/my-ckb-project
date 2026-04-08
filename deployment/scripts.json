@@ -1,5 +1,20 @@
 {
   "devnet": {
+    "create-dob.8b9f7e31.js.map": {
+      "codeHash": "0xa7bd9d064873d5b52b0e9762e2e6a710366af69fee8be9c8bccd7ef8f73009eb",
+      "hashType": "data2",
+      "cellDeps": [
+        {
+          "cellDep": {
+            "outPoint": {
+              "txHash": "0xc88d58a4f380a6c802c2c92153c77d192329d1ea7ea3f71c2066556cf23eee11",
+              "index": 0
+            },
+            "depType": "code"
+          }
+        }
+      ]
+    },
     "hello-world.bc": {
       "codeHash": "0x68e6c55c513149a84bfb1d733cefda13cc8189a8cca2744e7487a6ce4167c0b2",
       "hashType": "data2",
@@ -7,7 +22,7 @@
         {
           "cellDep": {
             "outPoint": {
-              "txHash": "0x6552770d1d5cd26b99c85f8a00e74a38784788e241bcf5685a332c31a236151a",
+              "txHash": "0x11503ce0659b794f90814e1d2984e1deb56cce4ea884d73ec661447dc07eadde",
               "index": 0
             },
             "depType": "code"

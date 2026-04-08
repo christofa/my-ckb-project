@@ -20,7 +20,8 @@
     "transfer": "parcel exercises/simple-transfer/index.html",
     "store-data": "parcel exercises/store-data-on-cell/index.html",
     "create-token": "parcel exercises/create-token/index.html",
-    "create-dob": "parcel exercises/create-dob/index.html"
+    "create-dob": "parcel exercises/create-dob/index.html",
+    "simple-lock": "parcel exercises/simple-lock/index.html"
   },
   "dependencies": {
     "@ckb-js-std/bindings": "~1.0.0",

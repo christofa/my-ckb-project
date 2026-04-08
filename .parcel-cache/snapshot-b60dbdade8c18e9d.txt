@@ -1,4 +1,4 @@
-21402
+21429
 113C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@exact-realty\multipart-parser\dist\parseMessage.mjs134200487396323273 0
 69C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@adraffy134176971673213612 1
 70C:\Users\user\Documents\Projects\my-ckb-project\node_modules\hmac-drbg134176971702654270 1
@@ -89,7 +89,7 @@
 105C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@swc\helpers\esm\_class_private_field_get.js134179469007470738 0
 92C:\Users\user\Documents\Projects\my-ckb-project\node_modules\es-abstract\2022\ArrayCreate.js134176971772883022 0
 96C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\ckb-indexer\lib\index.js134200487383006319 0
-57C:\Users\user\Documents\Projects\my-ckb-project\exercises134196748531306911 1
+57C:\Users\user\Documents\Projects\my-ckb-project\exercises134200882552657077 1
 78C:\Users\user\Documents\Projects\my-ckb-project\node_modules\es-errors\type.js134176971709012339 0
 86C:\Users\user\Documents\Projects\my-ckb-project\node_modules\npm-run-all\docs\run-p.md134176971754259634 0
 91C:\Users\user\Documents\Projects\my-ckb-project\node_modules\call-bound\.github\FUNDING.yml134176971714960734 0
@@ -112,7 +112,7 @@
 88C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@noble\hashes\blake2.js.map134176971765893118 0
 70C:\Users\user\Documents\Projects\my-ckb-project\node_modules\is-number134176971698358403 1
 83C:\Users\user\Documents\Projects\my-ckb-project\node_modules\lodash\assignInWith.js134200487426016149 0
-52C:\Users\user\Documents\Projects\my-ckb-project\dist134200540905620379 1
+52C:\Users\user\Documents\Projects\my-ckb-project\dist134200544411070423 1
 87C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@types\lodash\fp\juxt.d.ts134200487430459280 0
 89C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@types\lodash\fp\update.d.ts134200487437407030 0
 78C:\Users\user\Documents\Projects\my-ckb-project\node_modules\browserify-cipher134200492102595683 1
@@ -179,7 +179,7 @@
 100C:\Users\user\Documents\Projects\my-ckb-project\node_modules\jest-matcher-utils\build\Replaceable.js134176971737512537 0
 80C:\Users\user\Documents\Projects\my-ckb-project\node_modules\p-locate\index.d.ts134176971693861382 0
 104C:\Users\user\Documents\Projects\my-ckb-project\node_modules\es-abstract\2020\CreateListFromArrayLike.js134176971797809774 0
-60C:\Users\user\Documents\Projects\my-ckb-project\package.json134200492348310436 0
+60C:\Users\user\Documents\Projects\my-ckb-project\package.json134200927046463091 0
 93C:\Users\user\Documents\Projects\my-ckb-project\node_modules\aes-js\lib.commonjs\package.json134176971736531865 0
 75C:\Users\user\Documents\Projects\my-ckb-project\node_modules\sha3\README.md134200487369551335 0
 95C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@swc\helpers\cjs\_create_class.cjs134179468982135888 0
@@ -2349,7 +2349,7 @@
 104C:\Users\user\Documents\Projects\my-ckb-project\node_modules\ethers\node_modules\undici-types\index.d.ts134176971735674008 0
 124C:\Users\user\Documents\Projects\my-ckb-project\node_modules\npm-run-all\node_modules\cross-spawn\lib\util\resolveCommand.js134176971756985652 0
 92C:\Users\user\Documents\Projects\my-ckb-project\node_modules\es-abstract\2019\SecFromTime.js134176971849141718 0
-125C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\rpc\node_modules\cross-fetch\dist\browser-ponyfill.js134200487364904703 0
+125C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\rpc\node_modules\cross-fetch\dist\browser-ponyfill.js134200544378397945 0
 90C:\Users\user\Documents\Projects\my-ckb-project\node_modules\es-abstract\5\DateFromTime.js134176971799687367 0
 90C:\Users\user\Documents\Projects\my-ckb-project\node_modules\es-abstract\2025\SameValue.js134176971848155738 0
 98C:\Users\user\Documents\Projects\my-ckb-project\node_modules\rimraf\dist\esm\rimraf-posix.d.ts.map134176971772897335 0
@@ -3629,6 +3629,7 @@
 112C:\Users\user\Documents\Projects\my-ckb-project\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.c134179468987699692 0
 99C:\Users\user\Documents\Projects\my-ckb-project\node_modules\es-abstract\2023\AsyncIteratorClose.js134176971779868635 0
 77C:\Users\user\Documents\Projects\my-ckb-project\node_modules\uncrypto\LICENSE134176971692368055 0
+93C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\frontend\app\layout.tsx134179305152265198 0
 82C:\Users\user\Documents\Projects\my-ckb-project\node_modules\undici-types\api.d.ts134176971701117463 0
 92C:\Users\user\Documents\Projects\my-ckb-project\node_modules\undici-types\balanced-pool.d.ts134176971703048295 0
 89C:\Users\user\Documents\Projects\my-ckb-project\node_modules\es-abstract\2021\ToLength.js134176971864320610 0
@@ -4601,6 +4602,7 @@
 92C:\Users\user\Documents\Projects\my-ckb-project\node_modules\caniuse-lite\data\regions\CG.js134176971772799667 0
 98C:\Users\user\Documents\Projects\my-ckb-project\node_modules\ts-jest\dist\legacy\compiler\index.js134176971753766282 0
 78C:\Users\user\Documents\Projects\my-ckb-project\node_modules\makeerror\license134176971702928622 0
+87C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\scripts\deploy.js134179305153532147 0
 106C:\Users\user\Documents\Projects\my-ckb-project\node_modules\ts-jest\presets\js-with-ts-esm\jest-preset.js134176971760270111 0
 102C:\Users\user\Documents\Projects\my-ckb-project\node_modules\ts-jest\presets\js-with-ts\jest-preset.js134176971760857119 0
 79C:\Users\user\Documents\Projects\my-ckb-project\node_modules\lodash\debounce.js134200487429950539 0
@@ -5956,6 +5958,7 @@
 97C:\Users\user\Documents\Projects\my-ckb-project\node_modules\resolve\test\resolver\same_names\foo134176971760004278 1
 109C:\Users\user\Documents\Projects\my-ckb-project\node_modules\rimraf\node_modules\glob\dist\esm\has-magic.d.ts134176971772263863 0
 98C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@spore-sdk\core\lib\helpers\typeId.js134200487416960932 0
+77C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\scripts134200882553982946 1
 78C:\Users\user\Documents\Projects\my-ckb-project\node_modules\parcel\src\bin.js134179468984376842 0
 104C:\Users\user\Documents\Projects\my-ckb-project\node_modules\rimraf\node_modules\glob\dist\esm\ignore.js134176971750867722 0
 98C:\Users\user\Documents\Projects\my-ckb-project\node_modules\browserify-rsa\node_modules\bn.js\lib134200492097790381 1
@@ -8392,6 +8395,7 @@
 105C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@babel\compat-data\data\plugin-bugfixes.json134176971734741388 0
 106C:\Users\user\Documents\Projects\my-ckb-project\node_modules\math-intrinsics\constants\maxArrayLength.d.ts134176971740214795 0
 100C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@spore-sdk\core\lib\helpers\cell.js.map134200487417567694 0
+89C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\frontend\deployment134200887000936094 1
 95C:\Users\user\Documents\Projects\my-ckb-project\node_modules\ethers\lib.esm\utils\properties.js134176971790359057 0
 104C:\Users\user\Documents\Projects\my-ckb-project\node_modules\math-intrinsics\constants\maxSafeInteger.js134176971716928482 0
 106C:\Users\user\Documents\Projects\my-ckb-project\node_modules\ethers\lib.esm\providers\provider-infura.d.ts134176971832046671 0
@@ -9268,6 +9272,7 @@
 84C:\Users\user\Documents\Projects\my-ckb-project\node_modules\lodash\fp\assignWith.js134200487426115904 0
 118C:\Users\user\Documents\Projects\my-ckb-project\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\Doxyfile134179468952398483 0
 79C:\Users\user\Documents\Projects\my-ckb-project\node_modules\lodash\fp\assoc.js134200487426135835 0
+93C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\deployment\scripts.json134179305152101419 0
 107C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-ccc\core\dist\signer\doge\verify.d.ts.map134176971796864248 0
 87C:\Users\user\Documents\Projects\my-ckb-project\node_modules\isomorphic-ws\package.json134176971699331639 0
 111C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@spore-sdk\core\lib\cobuild\codec\witnessLayout.js134200487417120512 0
@@ -10434,6 +10439,7 @@
 85C:\Users\user\Documents\Projects\my-ckb-project\node_modules\fs.realpath\package.json134176971716554756 0
 92C:\Users\user\Documents\Projects\my-ckb-project\node_modules\jest-haste-map\build\index.d.ts134176971754601001 0
 85C:\Users\user\Documents\Projects\my-ckb-project\node_modules\jest-haste-map\build\lib134176971750396551 1
+100C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\deployment\system-scripts.json134179305152111388 0
 87C:\Users\user\Documents\Projects\my-ckb-project\node_modules\concat-map\README.markdown134176971700975211 0
 88C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@noble\hashes\pbkdf2.js.map134176971775258060 0
 94C:\Users\user\Documents\Projects\my-ckb-project\node_modules\jest-haste-map\build\ModuleMap.js134176971747861083 0
@@ -11826,6 +11832,7 @@
 113C:\Users\user\Documents\Projects\my-ckb-project\node_modules\ethers\lib.commonjs\providers\abstract-provider.d.ts134176971825004729 0
 98C:\Users\user\Documents\Projects\my-ckb-project\node_modules\ethers\lib.esm\abi\fragments.d.ts.map134176971804476072 0
 90C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@types\lodash\fp\inRange.d.ts134200487428813581 0
+95C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\scripts\build-contract.js134179305153415018 0
 86C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@parcel\markdown-ansi\lib134179468942676209 1
 89C:\Users\user\Documents\Projects\my-ckb-project\node_modules\ethers\src.ts\crypto\hmac.ts134176971828513975 0
 90C:\Users\user\Documents\Projects\my-ckb-project\node_modules\ethers\src.ts\crypto\index.ts134176971829191557 0
@@ -13937,6 +13944,7 @@
 97C:\Users\user\Documents\Projects\my-ckb-project\node_modules\es-abstract\2023\ClearKeptObjects.js134176971792601528 0
 97C:\Users\user\Documents\Projects\my-ckb-project\node_modules\es-abstract\2023\CloneArrayBuffer.js134176971792769067 0
 101C:\Users\user\Documents\Projects\my-ckb-project\node_modules\es-abstract\2023\CompareArrayElements.js134176971793254954 0
+111C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\deployment\devnet\hash-lock.bc\migrations134200882552989511 1
 107C:\Users\user\Documents\Projects\my-ckb-project\node_modules\es-abstract\2023\CompletePropertyDescriptor.js134176971793760836 0
 99C:\Users\user\Documents\Projects\my-ckb-project\node_modules\caniuse-lite\data\features\push-api.js134176971816158320 0
 108C:\Users\user\Documents\Projects\my-ckb-project\node_modules\es-abstract\2023\CreateAsyncFromSyncIterator.js134176971795352992 0
@@ -14694,7 +14702,6 @@
 97C:\Users\user\Documents\Projects\my-ckb-project\node_modules\es-abstract\2020\NormalCompletion.js134176971840985116 0
 78C:\Users\user\Documents\Projects\my-ckb-project\node_modules\bs58check\LICENSE134176971692510980 0
 81C:\Users\user\Documents\Projects\my-ckb-project\node_modules\buffer-xor\inline.js134200492099784228 0
-81C:\Users\user\Documents\Projects\my-ckb-project\exercises\create-dob\bootstrap.ts134200537708157441 0
 84C:\Users\user\Documents\Projects\my-ckb-project\node_modules\es-abstract\2020\Number134176971871579863 1
 103C:\Users\user\Documents\Projects\my-ckb-project\node_modules\es-abstract\2020\ObjectDefineProperties.js134176971842379684 0
 110C:\Users\user\Documents\Projects\my-ckb-project\node_modules\es-abstract\2020\OrdinaryCreateFromConstructor.js134176971842733899 0
@@ -15645,7 +15652,7 @@
 87C:\Users\user\Documents\Projects\my-ckb-project\node_modules\async-function\require.mjs134176971716369635 0
 80C:\Users\user\Documents\Projects\my-ckb-project\node_modules\cross-fetch\LICENSE134176971692510980 0
 82C:\Users\user\Documents\Projects\my-ckb-project\node_modules\cross-fetch\README.md134176971720694595 0
-97C:\Users\user\Documents\Projects\my-ckb-project\node_modules\cross-fetch\dist\browser-ponyfill.js134200540852671038 0
+97C:\Users\user\Documents\Projects\my-ckb-project\node_modules\cross-fetch\dist\browser-ponyfill.js134200543577072313 0
 106C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\common-scripts\lib\omnilock.js.map134200487399543664 0
 107C:\Users\user\Documents\Projects\my-ckb-project\node_modules\caniuse-lite\data\features\css-writing-mode.js134176971791838243 0
 92C:\Users\user\Documents\Projects\my-ckb-project\node_modules\cross-fetch\dist\cross-fetch.js134176971701137425 0
@@ -16483,7 +16490,7 @@
 90C:\Users\user\Documents\Projects\my-ckb-project\node_modules\bs-logger\dist\logger\root.js134176971730153806 0
 79C:\Users\user\Documents\Projects\my-ckb-project\node_modules\abitype\dist\types134176971791059320 1
 94C:\Users\user\Documents\Projects\my-ckb-project\node_modules\bs-logger\dist\logger\target.d.ts134176971731455841 0
-75C:\Users\user\Documents\Projects\my-ckb-project\dist\create-dob.f0fd6b30.js134200540904855493 0
+75C:\Users\user\Documents\Projects\my-ckb-project\dist\create-dob.f0fd6b30.js134200544410486046 0
 92C:\Users\user\Documents\Projects\my-ckb-project\node_modules\bs-logger\dist\logger\target.js134176971732843535 0
 107C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@jest\reporters\build\GitHubActionsReporter.js134176971747712476 0
 117C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@spore-sdk\core\lib\api\joints\cluster\getCluster.js.map134200487419517166 0
@@ -17015,7 +17022,7 @@
 109C:\Users\user\Documents\Projects\my-ckb-project\node_modules\abitype\dist\cjs\human-readable\types\structs.js134176971762518262 0
 109C:\Users\user\Documents\Projects\my-ckb-project\node_modules\abitype\dist\cjs\human-readable\runtime\cache.js134176971727352876 0
 84C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@types\lodash\tail.d.ts134200487420035748 0
-63C:\Users\user\Documents\Projects\my-ckb-project\dist\index.html134200540881868800 0
+63C:\Users\user\Documents\Projects\my-ckb-project\dist\index.html134200543712727017 0
 113C:\Users\user\Documents\Projects\my-ckb-project\node_modules\abitype\dist\cjs\human-readable\runtime\index.js.map134176971775179658 0
 118C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@parcel\workers\test\integration\workerfarm\master-sum.js134179468979391947 0
 110C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@babel\core\lib\vendor\import-meta-resolve.js.map134176971778970407 0
@@ -18168,6 +18175,7 @@
 112C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@parcel\types-internal\lib\DependencySpecifier.d.ts134179468968546053 0
 115C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@parcel\types-internal\lib\FileCreateInvalidation.d.ts134179468969213364 0
 101C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@parcel\types-internal\lib\FilePath.d.ts134179468970033123 0
+93C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\contracts\hash-lock\src134200882552829809 1
 98C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@parcel\types-internal\lib\index.d.ts134179468974146652 0
 78C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@parcel\types\lib134179468957146238 1
 82C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@parcel\types\LICENSE134179468953543300 0
@@ -19209,6 +19217,7 @@
 97C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@noble\curves\esm\_shortw_utils.d.ts134176971781751049 0
 101C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@noble\curves\esm\_shortw_utils.d.ts.map134176971761578730 0
 95C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@noble\curves\esm\_shortw_utils.js134176971698085921 0
+100C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\deployment\devnet\hash-lock.bc134200882552939626 1
 96C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@noble\curves\esm\abstract\bls.d.ts134176971782044914 0
 117C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\light-client\node_modules\cross-fetch\LICENSE134200487364236488 0
 94C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@noble\curves\esm\abstract\bls.js134176971703644908 0
@@ -19909,6 +19918,7 @@
 90C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\lumos\rpc.d.ts.map134200487398311318 0
 84C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\lumos\rpc.js134200487386327434 0
 102C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\lumos\transaction-manager.d.ts134200487408324221 0
+89C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\contracts\hash-lock134200882552804758 1
 106C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\lumos\transaction-manager.d.ts.map134200487401108835 0
 100C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\lumos\transaction-manager.js134200487387956504 0
 88C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\lumos\utils.d.ts134200487409211861 0
@@ -19961,7 +19971,7 @@
 118C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\light-client\node_modules\cross-fetch\polyfill134200487367287379 1
 119C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\light-client\node_modules\cross-fetch\README.md134200487368743489 0
 131C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\light-client\node_modules\cross-fetch\polyfill\package.json134200487367317300 0
-134C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\light-client\node_modules\cross-fetch\dist\browser-ponyfill.js134200487364745132 0
+134C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\light-client\node_modules\cross-fetch\dist\browser-ponyfill.js134200544379180013 0
 129C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\light-client\node_modules\cross-fetch\dist\cross-fetch.js134200487365044335 0
 133C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\light-client\node_modules\cross-fetch\dist\cross-fetch.js.map134200487367716253 0
 131C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\light-client\node_modules\cross-fetch\dist\node-ponyfill.js134200487365420721 0
@@ -20082,6 +20092,7 @@
 112C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\common-scripts\lib\anyone_can_pay.js.map134200487390140682 0
 100C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\common-scripts\lib\common.js134200487379280974 0
 104C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\common-scripts\lib\common.js.map134200487392880815 0
+102C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\contracts\hash-lock\src\index.ts134179305151985641 0
 99C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\common-scripts\lib\dao.d.ts134200487403583812 0
 97C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\common-scripts\lib\dao.js134200487379650761 0
 110C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@babel\types\lib\ast-types\generated\index.js.map134176971741481003 0
@@ -20160,6 +20171,7 @@
 107C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\codec\lib\high-order\index.d.ts.map134200487392890748 0
 101C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\codec\lib\high-order\index.js134200487381919233 0
 106C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\codec\lib\high-order\nested.js.map134200487397992167 0
+134C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\deployment\devnet\hash-lock.bc\migrations\2025-09-08-205232.json134179305152088661 0
 96C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\ckb-indexer\node_modules134200487362152381 1
 93C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\ckb-indexer\README.md134200487401029048 0
 87C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\ckb-indexer\src134200487404291937 1
@@ -20174,7 +20186,7 @@
 119C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\ckb-indexer\node_modules\cross-fetch\index.d.ts134200487369481607 0
 117C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\ckb-indexer\node_modules\cross-fetch\polyfill134200487367417020 1
 118C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\ckb-indexer\node_modules\cross-fetch\README.md134200487369042678 0
-133C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\ckb-indexer\node_modules\cross-fetch\dist\browser-ponyfill.js134200487364884758 0
+133C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\ckb-indexer\node_modules\cross-fetch\dist\browser-ponyfill.js134200544378616984 0
 128C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\ckb-indexer\node_modules\cross-fetch\dist\cross-fetch.js134200487365154043 0
 132C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\ckb-indexer\node_modules\cross-fetch\dist\cross-fetch.js.map134200487368623810 0
 130C:\Users\user\Documents\Projects\my-ckb-project\node_modules\@ckb-lumos\ckb-indexer\node_modules\cross-fetch\dist\node-polyfill.js134200487365490547 0
@@ -21368,8 +21380,9 @@
 88C:\Users\user\Documents\Projects\my-ckb-project\node_modules\.bin\update-browserslist-db134176971985385831 0
 92C:\Users\user\Documents\Projects\my-ckb-project\node_modules\.bin\update-browserslist-db.cmd134176971985385831 0
 74C:\Users\user\Documents\Projects\my-ckb-project\node_modules\.bin\uuid.cmd134200487472973377 0
-68C:\Users\user\Documents\Projects\my-ckb-project\exercises\create-dob134200532485398779 1
+68C:\Users\user\Documents\Projects\my-ckb-project\exercises\create-dob134200543577012677 1
 70C:\Users\user\Documents\Projects\my-ckb-project\exercises\create-token134184046026993861 1
+69C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock134200883672020795 1
 73C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-transfer134179321274691496 1
 90C:\Users\user\Documents\Projects\my-ckb-project\exercises\store-data-on-cell\ccc-client.ts134179305154154286 0
 86C:\Users\user\Documents\Projects\my-ckb-project\exercises\store-data-on-cell\index.tsx134181853075697980 0
@@ -21378,17 +21391,31 @@
 83C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-transfer\index.tsx134179305153924797 0
 80C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-transfer\lib.ts134180850534184938 0
 93C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-transfer\system-scripts.json134179305154052599 0
+79C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\contracts134200882552786737 1
+80C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\deployment134200887510655111 1
+78C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\frontend134200887086782368 1
+93C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\scripts\add-contract.js134179305152566666 0
+90C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\scripts\build-all.js134179305153353806 0
+82C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\frontend\app134200886813008431 1
+102C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\frontend\deployment\scripts.json134179305152305423 0
+109C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\frontend\deployment\system-scripts.json134179305152343648 0
+96C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\frontend\app\ccc-client.ts134179305152205112 0
+95C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\frontend\app\hash-lock.ts134179305152245247 0
+91C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\frontend\app\page.tsx134179305152275168 0
+87C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\deployment\devnet134200882552899725 1
+116C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\deployment\devnet\hash-lock.bc\deployment.toml134179305152047228 0
+134C:\Users\user\Documents\Projects\my-ckb-project\exercises\simple-lock\deployment\devnet\hash-lock.bc\migrations\2025-09-08-163141.json134179305152069694 0
 80C:\Users\user\Documents\Projects\my-ckb-project\exercises\create-token\index.tsx134184056536348149 0
 80C:\Users\user\Documents\Projects\my-ckb-project\exercises\create-token\README.md134179305154547555 0
 82C:\Users\user\Documents\Projects\my-ckb-project\exercises\create-dob\ccc-client.ts134179305151758499 0
-78C:\Users\user\Documents\Projects\my-ckb-project\exercises\create-dob\helper.ts134200529788967587 0
-79C:\Users\user\Documents\Projects\my-ckb-project\exercises\create-dob\index.html134200532485416466 0
+78C:\Users\user\Documents\Projects\my-ckb-project\exercises\create-dob\helper.ts134200543577047067 0
+79C:\Users\user\Documents\Projects\my-ckb-project\exercises\create-dob\index.html134200543577020801 0
 75C:\Users\user\Documents\Projects\my-ckb-project\exercises\create-dob\lib.ts134179305151818909 0
 78C:\Users\user\Documents\Projects\my-ckb-project\exercises\create-dob\README.md134179305151738523 0
 84C:\Users\user\Documents\Projects\my-ckb-project\exercises\create-dob\spore-config.ts134179305151885820 0
 88C:\Users\user\Documents\Projects\my-ckb-project\exercises\create-dob\system-scripts.json134179305151907043 0
 79C:\Users\user\Documents\Projects\my-ckb-project\dist\create-dob.8b9f7e31.js.map134200540905286327 0
-79C:\Users\user\Documents\Projects\my-ckb-project\dist\create-dob.f0fd6b30.js.map134200540905610412 0
+79C:\Users\user\Documents\Projects\my-ckb-project\dist\create-dob.f0fd6b30.js.map134200544411039205 0
 77C:\Users\user\Documents\Projects\my-ckb-project\dist\create-token.6c4c9d69.js134185718797588396 0
 81C:\Users\user\Documents\Projects\my-ckb-project\dist\create-token.6c4c9d69.js.map134185718798261754 0
 67C:\Users\user\Documents\Projects\my-ckb-project\dist\hello-world.bc134176983568409909 0
