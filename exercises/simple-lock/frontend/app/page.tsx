@@ -81,7 +81,7 @@ function HashLock() {
       // wait 10 seconds for tx confirm
       // the right way to do this is to use get_transaction rpc but here we just keep it simple
       await wait(10);
-      await updateFromInfo();
+      await updateFromInfo(hash);
     }
     setIsTransferring(false);
   };
