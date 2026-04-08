@@ -1,0 +1,12 @@
+{
+  "cell_recipes": [
+    {
+      "name": "create-dob.8b9f7e31.js.map",
+      "tx_hash": "0x62bcc926e4a65139e840612618fe73374e7fe889cc49b9d55cf86798971f1d8e",
+      "index": 0,
+      "occupied_capacity": 3363700000000,
+      "data_hash": "0xa7bd9d064873d5b52b0e9762e2e6a710366af69fee8be9c8bccd7ef8f73009eb"
+    }
+  ],
+  "dep_group_recipes": []
+}

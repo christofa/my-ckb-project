@@ -36,20 +36,24 @@ function HashLock() {
   const [balance, setBalance] = useState("0");
 
   useEffect(() => {
-    // Update Hash
-    if (preimage != null) {
-      const buffer = hexFrom(Array.from(preimage).map((c) => c.charCodeAt(0)));
-      const hash = hashCkb(buffer).slice(2);
-      setHash(hash);
+    if (preimage == null || myScripts[scriptName] == null) {
+      setHash("");
+      setFromAddr("");
+      setFromLock(undefined);
+      setBalance("0");
+      return;
     }
 
-    if (hash && myScripts[scriptName] != null) {
-      updateFromInfo();
-    }
-  }, [preimage, hash]);
+    const nextHash = hashCkb(
+      hexFrom(Array.from(preimage).map((c) => c.charCodeAt(0))),
+    ).slice(2);
 
-  const updateFromInfo = async () => {
-    const { lockScript, address } = generateAccount(hash);
+    setHash(nextHash);
+    updateFromInfo(nextHash);
+  }, [preimage]);
+
+  const updateFromInfo = async (nextHash: string) => {
+    const { lockScript, address } = generateAccount(nextHash);
     const capacity = await capacityOf(address);
     setFromAddr(address);
     setFromLock(lockScript);

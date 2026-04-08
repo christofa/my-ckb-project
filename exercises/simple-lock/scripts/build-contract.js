@@ -4,6 +4,11 @@ import { execSync } from "child_process";
 import path from "path";
 import fs from "fs";
 
+function getLocalBin(command) {
+  const ext = process.platform === "win32" ? ".cmd" : "";
+  return path.join("node_modules", ".bin", `${command}${ext}`);
+}
+
 function buildContract(contractName) {
   if (!contractName) {
     console.error("Usage: node build-contract.js <contract-name>");
@@ -54,7 +59,7 @@ function buildContract(contractName) {
     // Step 2: Bundle with esbuild
     console.log("  📦 Bundling with esbuild...");
     const esbuildCmd = [
-      "./node_modules/.bin/esbuild",
+      getLocalBin("esbuild"),
       "--platform=neutral",
       "--minify",
       "--bundle",

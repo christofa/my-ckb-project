@@ -21,9 +21,9 @@
     "store-data": "parcel exercises/store-data-on-cell/index.html",
     "create-token": "parcel exercises/create-token/index.html",
     "create-dob": "parcel exercises/create-dob/index.html",
-    "simple-lock:build:contract": "node exercises/simple-lock/scripts/build-contract.js hash-lock",
-    "simple-lock:build": "node exercises/simple-lock/scripts/build-all.js",
-    "simple-lock:deploy": "node exercises/simple-lock/scripts/deploy.js --network devnet"
+    "simple-lock:build": "npm --prefix exercises/simple-lock run build",
+    "simple-lock:deploy": "npm --prefix exercises/simple-lock run deploy -- --network devnet",
+    "simple-lock:frontend": "npm --prefix exercises/simple-lock/frontend run dev"
   },
   "dependencies": {
     "@ckb-js-std/bindings": "~1.0.0",
